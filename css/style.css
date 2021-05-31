@@ -2,14 +2,14 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
-  src: url("./fonts/Roboto-Regular.ttf") format("ttf");
+  src: url("../fonts/Roboto-Regular.ttf") format("ttf");
 }
 
 @font-face {
   font-family: "Nunito";
   font-style: normal;
   font-weight: 400;
-  src: url("./fonts/Nunito-Regular.ttf") format("ttf");
+  src: url("../fonts/Nunito-Regular.ttf") format("ttf");
 }
 
 * {
@@ -187,7 +187,12 @@ a {
 }
 
 button:focus,
-a:focus {
+a:focus, .button:focus {
+  outline: 2px solid var(--pink);
+}
+
+.btn:focus,
+a:focus, .button:focus {
   outline: 2px solid var(--pink);
 }
 
@@ -208,6 +213,7 @@ body:not(.user-is-tabbing) a:focus {
   color: inherit;
   border: 1px solid var(--pink);
   font-weight: 400;
+  margin: 10px auto;
 }
 
 .btn:focus {
@@ -221,7 +227,7 @@ body:not(.user-is-tabbing) a:focus {
   top: 0;
   left: 0;
   right: 100%;
-  background: var(--white);
+  background: var(--pink);
   height: 100%;
   z-index: -1;
   transition: all 0.2s cubic-bezier(1, 0.68, 0.16, 0.9);
@@ -246,6 +252,8 @@ body:not(.user-is-tabbing) a:focus {
 .btn--pink:focus {
   background: transparent;
 }
+
+
 
 .link_text {
   position: relative;
@@ -459,15 +467,15 @@ body:not(.user-is-tabbing) a:focus {
 
 .header_text {
   position: absolute;
-  top: 28%;
+  top: 150px;
   transform: translateY(-50%);
 }
 
 .header_text p {
-  margin: 1.5rem 0 3.5rem;
   max-width: var(--container-medium-width);
   font-family: "Nunito", sans-serif;
   font-size: var(--font-size-medium);
+  line-height: 20px;
 }
 
 @media (max-width: 500px) {
