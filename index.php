@@ -17,16 +17,16 @@
 <body>
 
 	<?php
-	include "./html/navbar.html";
-	include "./html/main.html";
-	include "./html/projet.html";
-	include "./html/experience.html";
-	include "./html/contact.html";
-	include "./html/footer.html";
+		include "frontend/header.php";
+		include "frontend/main.php";
+		include "frontend/projet.php";
+		include "frontend/experience.php";
+		include "frontend/contact.php";
+		include "frontend/footer.php";
 	?>
 
 	<a href="#top" class="back-to-top" title="Back to Top">
-		<img src="./images/arrow-up.svg" alt="Back to Top" class="back-to-top__image" />
+		<img src="asset/images/arrow-up.svg" alt="Back to Top" class="back-to-top__image" />
 	</a>
 	<script src="js/script.js"></script>
 	<script>
