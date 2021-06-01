@@ -34,8 +34,9 @@
             href="asset/Mamed-Gohabur-Developpeur-React-Nodejs.pdf"
             class="btn"
             target="_blank"
-            >Mon curriculum vitae</a
           >
+            Mon curriculum vitae
+          </a>
         </div>
 
         <div class="about_photo-container">
