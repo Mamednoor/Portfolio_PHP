@@ -5,7 +5,7 @@
       <br /><br />
       <div id="typed-strings">
         <p>Consultant Microsoft D365</p>
-        <p>Développeur FullStack - React, Node.js</p>
+        <p>Développeur Fullstack - React, Node.js, PHP</p>
       </div>
       <span id="typed"></span>
       <!-- <br />
