@@ -14,7 +14,7 @@
 
   <button onclick="window.location.href='index.php'" class="back-btn" >Retour</button>
 
-  <form class="form-container" action="treatmentForm.php" method="post">
+  <form class="form-container" action="treatmentForm.php" method="post" enctype="multipart/form-data">
     <h3>formulaire :</h3>
 
     <div class="form-group">
@@ -23,8 +23,8 @@
     </div>
 
     <div class="form-group">
-      <label class="form-label" for="image">Image :</label>
-      <input type="file" class="form-input" id="image" name="image">
+      <label class="form-label" for="picture">Image :</label>
+      <input type="file" class="form-input" id="picture" name="picture">
       <div class="preview" id="preview"></div>
     </div>
 

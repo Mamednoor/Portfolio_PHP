@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<link rel="shortcut icon" type="image/png" href="./images/favicon.png" />
+	<link rel="shortcut icon" type="image/png" href="" />
 	<title>
 		Mamed Noor Gohabur, Développeur Fullstack basé à Paris, France.
 	</title>
@@ -19,7 +19,7 @@
 	<?php
 		include "frontend/header.php";
 		include "frontend/main.php";
-		include "frontend/projet.php";
+		include "frontend/display.php";
 		include "frontend/experience.php";
 		include "frontend/contact.php";
 		include "frontend/footer.php";

@@ -40,7 +40,7 @@
         </div>
 
         <div class="about_photo-container">
-          <img class="about_photo" src="images/profil.jpeg" alt="" />
+          <img class="about_photo" src="asset/images/profil.jpeg" alt="photo profil" />
         </div>
       </div>
     </div>

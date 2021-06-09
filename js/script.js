@@ -37,7 +37,7 @@ window.addEventListener("scroll", () => {
   }
 });
 
-document.getElementById("image").addEventListener("change", function(evt){
+document.getElementById("picture").addEventListener("change", function(evt){
   var p=document.getElementById("preview"); /* Bloc d'affichage de la liste des fichiers */
   p.innerHTML=""; /* Effacer le contenu initial de #preview */
   for (var i=0; i<this.files.length; i++) {
