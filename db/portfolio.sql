@@ -6,6 +6,7 @@
 -- Généré le : mer. 09 juin 2021 à 22:44
 -- Version du serveur :  8.0.25
 -- Version de PHP : 7.4.3
+-- Author = Mamed Noor Gohabur
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
