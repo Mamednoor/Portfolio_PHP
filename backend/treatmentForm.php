@@ -47,5 +47,3 @@
   } catch (PDOException $err) {
     echo "Error: " . $err->getMessage();
   }
-
-  ?>
