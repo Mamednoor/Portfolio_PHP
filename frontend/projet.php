@@ -12,32 +12,16 @@
           </ul>
 
           <div class="projet_links">
-            <a
-              href="https://mamednoor.github.io/project1PixieWilder/"
-              class="link_text"
-              target="_blank"
-            >
+            <a href="https://mamednoor.github.io/project1PixieWilder/" class="link_text" target="_blank">
               Visit Site <span>&rarr;</span>
             </a>
-            <a
-              href="https://github.com/Mamednoor/project1PixieWilder"
-              target="_blank"
-            >
-              <img
-                src="asset/images/github.svg"
-                class="projet_code"
-                title="View Source Code"
-                alt="GitHub"
-              />
+            <a href="https://github.com/Mamednoor/project1PixieWilder" target="_blank">
+              <img src="asset/images/github.svg" class="projet_code" title="View Source Code" alt="GitHub" />
             </a>
           </div>
         </div>
         <div class="projet_image-box">
-          <img
-            src="asset/images/PixieWilders.png"
-            class="projet_image"
-            alt="ImagePixieWilders"
-          />
+          <img src="asset/images/PixieWilders.png" class="projet_image" alt="ImagePixieWilders" />
         </div>
       </div>
 
@@ -45,6 +29,7 @@
         <div class="projet_text">
           <h3>Worker & Co</h3>
           <p>Création d’un site vitrine pour une agence de co-working</p>
+          <p>Ceci est un projet fictif et non lucratif les différentes images utilisées ont été prises sur <a href="https://unsplash.com/">unsplash</a></p>
           <ul class="projet_list">
             <li>HTML & CSS</li>
             <li>Bootstrap</li>
@@ -53,29 +38,16 @@
           </ul>
 
           <div class="projet_links">
-            <a
-              href="https://workerandco.netlify.app"
-              class="link_text"
-              target="_blank"
-            >
+            <a href="https://workerandco.netlify.app" class="link_text" target="_blank">
               Visit Site <span>&rarr;</span>
             </a>
             <a href="https://github.com/Mamednoor/project-wbf3" target="_blank">
-              <img
-                src="asset/images/github.svg"
-                class="projet_code"
-                title="View Source Code"
-                alt="GitHub"
-              />
+              <img src="asset/images/github.svg" class="projet_code" title="View Source Code" alt="GitHub" />
             </a>
           </div>
         </div>
         <div class="projet_image-box">
-          <img
-            src="asset/images/Worker&Co.png"
-            class="projet_image"
-            alt="ImageWorker&Co"
-          />
+          <img src="asset/images/Worker&Co.png" class="projet_image" alt="ImageWorker&Co" />
         </div>
       </div>
 
@@ -93,32 +65,16 @@
           </ul>
 
           <div class="projet_links">
-            <a
-              href="https://cookandcake.netlify.app/"
-              class="link_text"
-              target="_blank"
-            >
+            <a href="https://cookandcake.netlify.app/" class="link_text" target="_blank">
               Visit Site <span>&rarr;</span>
             </a>
-            <a
-              href="https://github.com/Mamednoor/paris-0320-project2-Cook-Cake"
-              target="_blank"
-            >
-              <img
-                src="asset/images/github.svg"
-                class="projet_code"
-                title="View Source Code"
-                alt="GitHub"
-              />
+            <a href="https://github.com/Mamednoor/paris-0320-project2-Cook-Cake" target="_blank">
+              <img src="asset/images/github.svg" class="projet_code" title="View Source Code" alt="GitHub" />
             </a>
           </div>
         </div>
         <div class="projet_image-box">
-          <img
-            src="asset/images/CookAndCake.png"
-            class="projet_image"
-            alt="ImageCookAndCake"
-          />
+          <img src="asset/images/CookAndCake.png" class="projet_image" alt="ImageCookAndCake" />
         </div>
       </div>
 
@@ -136,32 +92,16 @@
           </ul>
 
           <div class="projet_links">
-            <a
-              href="https://romantic-swirles-0e45a7.netlify.app/"
-              class="link_text"
-              target="_blank"
-            >
+            <a href="https://romantic-swirles-0e45a7.netlify.app/" class="link_text" target="_blank">
               Visit Site <span>&rarr;</span>
             </a>
-            <a
-              href="https://github.com/Mamednoor/HackathonProject"
-              target="_blank"
-            >
-              <img
-                src="asset/images/github.svg"
-                class="projet_code"
-                title="View Source Code"
-                alt="GitHub"
-              />
+            <a href="https://github.com/Mamednoor/HackathonProject" target="_blank">
+              <img src="asset/images/github.svg" class="projet_code" title="View Source Code" alt="GitHub" />
             </a>
           </div>
         </div>
         <div class="projet_image-box">
-          <img
-            src="asset/images/GoatvsChicken.png"
-            class="projet_image"
-            alt="ImageGoatVsChicken"
-          />
+          <img src="asset/images/GoatvsChicken.png" class="projet_image" alt="ImageGoatVsChicken" />
         </div>
       </div>
 
@@ -183,32 +123,16 @@
           </ul>
 
           <div class="projet_links">
-            <a
-              href="https://doctalk.netlify.app/"
-              class="link_text"
-              target="_blank"
-            >
+            <a href="https://doctalk.netlify.app/" class="link_text" target="_blank">
               Visit Site <span>&rarr;</span>
             </a>
-            <a
-              href="https://github.com/Mamednoor/doctalkfusion"
-              target="_blank"
-            >
-              <img
-                src="asset/images/github.svg"
-                class="projet_code"
-                title="View Source Code"
-                alt="GitHub"
-              />
+            <a href="https://github.com/Mamednoor/doctalkfusion" target="_blank">
+              <img src="asset/images/github.svg" class="projet_code" title="View Source Code" alt="GitHub" />
             </a>
           </div>
         </div>
         <div class="projet_image-box">
-          <img
-            src="asset/images/doctalk.png"
-            class="projet_image"
-            alt="ImageDocTalk"
-          />
+          <img src="asset/images/doctalk.png" class="projet_image" alt="ImageDocTalk" />
         </div>
       </div>
 
@@ -226,29 +150,16 @@
             <li>Git & Github</li>
           </ul>
           <div class="projet_links">
-            <a
-              href="https://papier-crayon.netlify.app/"
-              class="link_text"
-              target="_blank"
-            >
+            <a href="https://papier-crayon.netlify.app/" class="link_text" target="_blank">
               Visit Site <span>&rarr;</span>
             </a>
             <a href="https://github.com/Mamednoor/papiercrayon" target="_blank">
-              <img
-                src="asset/images/github.svg"
-                class="projet_code"
-                title="View Source Code"
-                alt="GitHub"
-              />
+              <img src="asset/images/github.svg" class="projet_code" title="View Source Code" alt="GitHub" />
             </a>
           </div>
         </div>
         <div class="projet_image-box">
-          <img
-            src="asset/images/papiercrayon.png"
-            class="projet_image"
-            alt="ImageDocTalk"
-          />
+          <img src="asset/images/papiercrayon.png" class="projet_image" alt="ImageDocTalk" />
         </div>
       </div>
 
@@ -264,29 +175,16 @@
           </ul>
 
           <div class="projet_links">
-            <a
-              href="https://redux-train-todoapp.netlify.app/"
-              class="link_text"
-              target="_blank"
-            >
+            <a href="https://redux-train-todoapp.netlify.app/" class="link_text" target="_blank">
               Visit Site <span>&rarr;</span>
             </a>
             <a href="https://github.com/Mamednoor/redux-train" target="_blank">
-              <img
-                src="asset/images/github.svg"
-                class="projet_code"
-                title="View Source Code"
-                alt="GitHub"
-              />
+              <img src="asset/images/github.svg" class="projet_code" title="View Source Code" alt="GitHub" />
             </a>
           </div>
         </div>
         <div class="projet_image-box">
-          <img
-            src="asset/images/redux-train.png"
-            class="projet_image"
-            alt="ImageDocTalk"
-          />
+          <img src="asset/images/redux-train.png" class="projet_image" alt="ImageDocTalk" />
         </div>
       </div>
 
@@ -303,28 +201,16 @@
           </ul>
 
           <div class="projet_links">
-            <a
-              href="https://mamednoor.netlify.app/"
-              target="_blank"
-              class="link_text"
-            >
+            <a href="https://mamednoor.netlify.app/" target="_blank" class="link_text">
               Visit Site <span>&rarr;</span>
             </a>
-            <a
-              href="https://github.com/Mamednoor/Mamednoor"
-              title="View Source Code"
-              target="_blank"
-            >
+            <a href="https://github.com/Mamednoor/Mamednoor" title="View Source Code" target="_blank">
               <img src="asset/images/github.svg" class="projet_code" alt="GitHub" />
             </a>
           </div>
         </div>
         <div class="projet_image-box">
-          <img
-            src="asset/images/PortfolioReact.png"
-            class="projet_image"
-            alt="Project 1"
-          />
+          <img src="asset/images/PortfolioReact.png" class="projet_image" alt="Project 1" />
         </div>
       </div>
     </div>
