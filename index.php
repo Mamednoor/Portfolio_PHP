@@ -17,13 +17,13 @@
 <body>
 
 	<?php
-		include "frontend/header.php";
-		include "frontend/main.php";
-		// include "frontend/display.php";  // to display this page may connect to bdd
-		include "frontend/projet.php";
-		include "frontend/experience.php";
-		include "frontend/contact.php";
-		include "frontend/footer.php";
+	include "frontend/header.php";
+	include "frontend/main.php";
+	include "frontend/display.php";  // to display this page may connect to bdd
+	// include "frontend/projet.php";
+	include "frontend/experience.php";
+	include "frontend/contact.php";
+	include "frontend/footer.php";
 	?>
 
 	<a href="#top" class="back-to-top" title="Back to Top">
